@@ -14,6 +14,6 @@ void  main()
 		++b;
 	} while (0 < n % 10);
 
-	cout << b << endl;
+	cout <<"Discharges : "<< b << endl;
 	system("pause");
 }
